@@ -1,0 +1,16 @@
+
+                     GENDER+DRWITHGL+NRWITHGL+RAXISLEG+RANTECHA+
+                     RWTW+RNCONPRE+HEIGHT+WEIGHT+TOUW+
+                     SBLOPRE+SBLOPRE+PULSE+CHAOD1+ETEST+
+                     CHGLASS1+TRT+AMB11+AMB21+AMB31+
+                     AMB41+DRUGIF+PREGQ+SGAR+LSMK+
+                     COSTM+BULBP+TUTOR1+TUTOR2+NTON+
+                     MSMK+HSMK+MH+FH+FW+
+                     BED+IFTAI+BULB+TUTOR+CELLP+
+                     NOONS+EYE+EYE1+SITE+STR+
+                     PLACE5+SHIFT+IFDOU+ALLERGY+DRNBASE+
+                     DRWBASE+NRNBASE+NRWBASE+DOMEYE+RPR+
+                     JTR+YTR+RCORCU+JNGLASS+DAI1+
+                     DAI2+MB+ACI+BCI+CCI+
+                     DCI+total+st1+st2+INCM+
+                     PREG
